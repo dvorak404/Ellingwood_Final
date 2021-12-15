@@ -100,9 +100,8 @@ li {
         text-align: center;
     }
 
-    .streamLink:hover, .navBar:hover {
+    .streamLink:hover {
         font-family: 'Playfair Display', serif;
-        font-size: 1.52em;
     }
 
     #imageRightHome {
