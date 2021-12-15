@@ -272,12 +272,13 @@ li {
         padding: auto;
         margin: auto;
         width: 840px;
-        height: auto;
+        height: fit-content;
     }
 
     #ishtar {
         width: 840px;
         height: 472.5px;
+        padding: 0;
     }
 
     #imageLeftHome {
